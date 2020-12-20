@@ -1,6 +1,8 @@
 # CS201-Projects
 Projects from CS201: Data Structures and Algorithms
 
+Grade: 86%
+
 This is my 2-3-4 Tree class used to implement the 2-3-4 Tree data structure.
 
 There is a single error in the project regarding the search function. I am still unsure as to what is causing the error.
