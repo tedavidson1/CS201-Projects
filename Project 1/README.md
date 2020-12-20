@@ -1,5 +1,7 @@
 This is my circular dynamic array class to implement that data structure.
 
+Grade: 86%
+
 There are still errors on Search and Empty  Slots.
 
 
