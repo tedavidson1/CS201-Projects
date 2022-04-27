@@ -1,4 +1,4 @@
-My current computer science course and my most recent, complex work.
+Some of the most complex work I did.
 
 Data Structures and Algorithms Library for CS201: Data Structures and Algorithms
 
